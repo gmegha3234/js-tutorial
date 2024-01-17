@@ -10,7 +10,7 @@
 
 function User(name ){// constructor fun
 // this = {} // implicitly
-this.name = name; 
+this.name = name;
 this.isAdmin = false;
  //return this; // implicitely
 }
